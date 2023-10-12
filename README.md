@@ -1,5 +1,7 @@
 # system-calls
 
+Just a list of system calls that I often use. With the header file from a specification and a link to documentation.
+
 | Specification | Header | System call | Description | Link |
 |---|---|---|---|---|
 | POSIX | `fcntl.h` | `open()` | Open a file, create a file |
